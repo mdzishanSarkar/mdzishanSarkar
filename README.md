@@ -127,14 +127,17 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mdzishanSarkar&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdzishanSarkar&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=mdzishanSarkar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" height="180" alt="Zishan's GitHub Stats" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdzishanSarkar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" height="180" alt="Top Languages" />
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=mdzishanSarkar&theme=github-dark-blue&hide_border=true" width="70%" />
+<img src="https://streak-stats.demolab.com?user=mdzishanSarkar&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
 
 </div>
 
