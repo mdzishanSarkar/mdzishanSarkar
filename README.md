@@ -19,7 +19,7 @@
 🧠  Competitive programmer who loves turning complex problems into clean solutions
 🛠️  Building real-world projects that combine logic and creativity
 📍  Bangladesh
-🎯  Currently focused on strengthening DSA, CP, and full-stack skills
+🎯  Currently focused on developing real-world software projects, DSA, CP, and system design
 💬  Always open to learning, collaborating, and growing
 ```
 
