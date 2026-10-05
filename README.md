@@ -102,6 +102,26 @@
 ---
 
 ## 🚀 Featured Projects
+### 🔥 [The Skill Hearth](https://github.com/mdzishanSarkar/The-Skill-Hearth)
+
+> A hyperlocal skill-sharing platform that transforms neighborhoods into living classrooms - connecting neighbors to teach and learn everyday skills together.
+
+```text
+🔧 Built With   :  React 19, TypeScript, Node.js, Express 5, MongoDB, Redis, Socket.io, Tailwind 4
+🎯 Purpose      :  Bridge modern isolation through shared practical learning in local communities
+✨ Highlights   :  Interactive skill map, real-time chat, mentorships, gamified XP & badges
+🌐 Live Demo    :  https://the-skill-hearth.vercel.app
+📅 Status       :  🟢 Live & Deployed
+```
+
+<div align="center">
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdzishanSarkar/the-skill-hearth)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://the-skill-hearth.vercel.app)
+
+</div>
+
+<br/>
 
 ### 🌊 [Deep Sea Aquarium](https://github.com/mdzishanSarkar/Deep-Sea-Aquarium)
 
